@@ -1,9 +1,4 @@
-//should % 4
-//should not % 100
-//should % 100 && % 400
-
 import java.util.*;
-
 
 public class LeapYearCheck {
     public static void main(String[] args){
