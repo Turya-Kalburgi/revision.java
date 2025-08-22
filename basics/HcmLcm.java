@@ -23,8 +23,8 @@ public class HcmLcm {
         int hcf = a;
         int lcm = (x * y) / hcf;
 
-        System.out.println("HCF is:"+ x+"and"+y+"="+hcf);
-        System.out.println("LCM is:"+ x+"and"+y+"="+lcm);
+        System.out.println("HCF is:"+ x +"and"+y+"="+ hcf);
+        System.out.println("LCM is:"+ x +"and"+y+"="+ lcm);
         sc.close();
     }
 }
