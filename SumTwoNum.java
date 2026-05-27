@@ -13,6 +13,8 @@ public class SumTwoNum {
         int sum = a+b;
         System.out.println("the sum of a+b = " +sum);
 
+        sc.close();
+
     }   
     
 }
